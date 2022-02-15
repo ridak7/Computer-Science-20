@@ -1,8 +1,8 @@
 /*
 
-Program: TicTacToe.java          Last Date of this Revision: MMMMM DD, YYYY
+Program: TicTacToe.java          Last Date of this Revision: February 15, 2022
 
-Purpose: xx
+Purpose: Print a TicTacToe board onto the console
 
 Author: Nathaniel Edillon
 School: CHHS
@@ -17,13 +17,17 @@ public class TicTacToe
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
-		System.out.println("Time to make meincraft game!!");
-		System.out.println("Read my newest book, Meinkampf!");
-		
-		int food, clothing, entertainment;
-		food = 69;
-		clothing = 1;
-		System.out.println(food + clothing);
+		System.out.println("         |         |         \n"
+						 + "         |         |         \n"
+						 + "         |         |         \n"
+						 + "-----------------------------\n"
+						 + "         |         |         \n"
+						 + "         |    x    |         \n"
+						 + "         |         |         \n"
+						 + "-----------------------------\n"
+						 + "         |         |         \n"
+						 + "         |         |         \n"
+						 + "         |         |         ");
 	}
 
 }
@@ -31,6 +35,18 @@ public class TicTacToe
 
 /* Screen Dump
 
-Paste the output of your code here
+
+         |         |         
+         |         |         
+         |         |         
+-----------------------------
+         |         |         
+         |    x    |         
+         |         |         
+-----------------------------
+         |         |         
+         |         |         
+         |         |         
+
  
  */
