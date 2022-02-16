@@ -11,8 +11,8 @@ Course: Computer Science 20
 
 */
 
-public class MyInitials {
-
+public class MyInitials 
+{
 	public static void main(String[] args) 
 	{
 		System.out.println("N P E");
