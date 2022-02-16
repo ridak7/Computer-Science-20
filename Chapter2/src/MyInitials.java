@@ -15,14 +15,14 @@ public class MyInitials {
 
 	public static void main(String[] args) 
 	{
-		System.out.println("Hello World!");
+		System.out.println("N P E");
 	}
 
 }
 
 /* Screen Dump
 
-
+N P E
 
 
 */
