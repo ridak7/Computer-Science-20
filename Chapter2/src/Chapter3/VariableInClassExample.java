@@ -50,6 +50,6 @@ Input the distance of the first segment in kilometers: 4.2
 Input the distance of the second segment in kilometers: 5.6
 Input the distance of the third segment in kilometers: 1.9
 
-The total distance of the race is 11.700000000000001 kilometers.
+The total distance of the race is 11.70000000000001 kilometers.
 
 */
