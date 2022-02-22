@@ -1,3 +1,4 @@
+package Chapter2;
 /*
 
 Program: BinaryNumbers.java          Last Date of this Revision: February 15, 2022
