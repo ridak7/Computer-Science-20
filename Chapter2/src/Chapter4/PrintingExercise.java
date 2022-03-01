@@ -19,6 +19,7 @@ public class PrintingExercise
 {
 	public static void main(String[] args)
 	{
+		// all the variables are here
 		Scanner userInput = new Scanner(System.in);
 		int copies;
 		double price = 0, total;
@@ -26,6 +27,7 @@ public class PrintingExercise
 		System.out.print("Enter the number of copies to be printed: ");
 		copies = userInput.nextInt();
 		
+		// determine the price of individual copies
 		if (copies > 0 && copies <= 99)
 		{
 			price = 0.30;
@@ -47,7 +49,7 @@ public class PrintingExercise
 			price = 0.25;
 		}
 		
-		total = price * copies;
+		total = price * copies;	// total price determined here
 		
 		System.out.printf("Price per copy is: $%.2f\n", price);
 		System.out.printf("Total cost: $%.2f", total);
