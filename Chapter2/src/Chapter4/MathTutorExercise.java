@@ -19,6 +19,7 @@ public class MathTutorExercise
 {
 	public static void main(String[] args)
 	{
+		// all variables are created here
 		Scanner userInput = new Scanner(System.in);
 		int value1 = (int) ((10) * Math.random() + 1), 
 			value2 = (int) ((10) * Math.random() + 1), 
@@ -26,6 +27,7 @@ public class MathTutorExercise
 		double userAnswer = 0, maths = 0, doubleValue1;
 		char operation = '0';
 		
+		// takes random numbers and does a random operation on them
 		switch (operationRNG)
 		{
 			case 1:
@@ -47,6 +49,7 @@ public class MathTutorExercise
 				break;
 		}
 		
+		// prompt user for answer, then evaluate whether it's correct or not
 		System.out.printf("%d %c %d = ", value1, operation, value2);
 		userAnswer = userInput.nextDouble();
 		
