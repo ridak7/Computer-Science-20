@@ -1,8 +1,8 @@
 /*
 
-Program: MathTutorExercise.java          Last Date of this Revision: March 2, 2022
+Program: NumbersSum.java          Last Date of this Revision: March 3, 2022
 
-Purpose: Prompt the user to answer the generated equation and compare to the solution.
+Purpose: Prompt the user to input a number, then print all numbers between 1 and their number.
 
 Author: Nathaniel Edillon
 School: CHHS
