@@ -1,3 +1,5 @@
+							Missing Header
+
 package Chapter3;
 
 import java.text.NumberFormat;
@@ -46,3 +48,5 @@ public class SpendingInClassExample
 	}
 
 }
+
+Missing Screen Dump
