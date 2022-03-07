@@ -15,7 +15,7 @@ package Chapter3;
 
 public class RectanglePerimeter 
 {
-	public static void main(String[] args) 
+	public static void main(String[] args)       Let us do the rectangle again and allow the user to enter the lenght and width of the rectangle
 	{
 		int l = 13, w = 4;
 		int perimeter = 2 * (l + w);
